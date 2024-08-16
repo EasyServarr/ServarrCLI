@@ -38,6 +38,9 @@ git clone https://github.com/SouthernCure/ServarrCompose.git
 ```
 
 Use cd to navigate to the repository file
+```
+cd ServarrCompose
+```
 
 Run the python script
 ```
