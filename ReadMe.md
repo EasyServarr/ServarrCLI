@@ -26,6 +26,20 @@
 - Docker
 - Docker Compose V2
 
-```shell
+```
 sudo apt-get install python3 docker.io docker-compose-v2
+```
+
+# Running the CLI (command line interface)
+
+Clone this repository
+```
+git clone https://github.com/SouthernCure/ServarrCompose.git
+```
+
+Use cd to navigate to the repository file
+
+Run the python script
+```
+python3 main.py
 ```
