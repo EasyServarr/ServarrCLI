@@ -8,7 +8,7 @@ Also, big credits to Ezarr (Similar projects) for giving me the idea to create t
 
 Ezarr: https://github.com/Luctia/ezarr
 
-Roadmap:
+Roadmap: https://github.com/users/SouthernCure/projects/2/views/2
 
 # Apps
 
