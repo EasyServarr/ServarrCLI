@@ -31,6 +31,9 @@ Roadmap: https://github.com/users/SouthernCure/projects/2/views/2
 - Jellyfin
 - Plex
 
+**Torrenter**
+- qBittorrent
+
 # Requirements
 
 - Python3
