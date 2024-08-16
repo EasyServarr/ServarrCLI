@@ -4,6 +4,10 @@ This repository was created to hopefully help automade the downloading of servar
 
 At the time of typing this, I have no idea how to create a CLI in python, generate a docker-compose.yml, or even use shell beyond the most basic levels. I hope to use this as a learning oportunity as well has give others confidence to attemp their own projects. I hope to someday create a webui (maybe a full website) that allows you to configure EVERYTHING via a convenient GUI. I hope this finds you well and helps you start your mediaserver journey. I may create a WIKI for this, to further help new users understand the script and the arr's in general.
 
+Also, big credits to Ezarr (Similar projects) for giving me the idea to create this, its more of a learning oportunity and im definitlye going to take alot from their project.
+
+Ezarr: https://github.com/Luctia/ezarr
+
 Roadmap:
 
 # Apps
