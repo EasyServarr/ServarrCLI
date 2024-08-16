@@ -14,11 +14,14 @@ Roadmap: https://github.com/users/SouthernCure/projects/2/views/2
 
 **Main**
 - Homarr
-- Jellyseerr
 - Radarr
 - Sonarr
 - Lidarr
 - Readarr
+
+**Request Tools**
+- Jellyseerr
+- Overseerr
 
 **Indexers**
 - Prowlarr
