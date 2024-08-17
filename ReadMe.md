@@ -1,4 +1,4 @@
-# Servarr for dummies
+# Servarr for dummies (Work in Progress)
 
 This repository was created to hopefully help automade the downloading of servarr so that anyone can use these awesome tools!
 
