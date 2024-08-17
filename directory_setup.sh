@@ -90,5 +90,3 @@ sudo chown -R plex:mediaservarr ${ROOT_DIR:-.}/config/plex-config
 sudo chown -R qbittorrent:mediaservarr ${ROOT_DIR:-.}/config/qbittorrent-config
 
 echo "Done! It is recommended to reboot now so the permissions are set correctly"
-
-# TEST
